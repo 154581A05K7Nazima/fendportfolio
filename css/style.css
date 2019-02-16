@@ -1,0 +1,57 @@
+.contain
+{
+	width: 95%;
+	margin: 0 auto;
+	padding: 1%;
+	border-bottom: 2px solid #ddd;
+	display: flex;
+	flex-direction: row;
+}
+.lchild
+{
+  width: 45% ;
+  padding: 1% ;
+  margin:  1%; 
+
+}
+.rchild
+{
+  width: 45% ;
+  padding: 1% ;
+  margin:  1%;
+  text-align: right;
+}
+.lchild img
+{
+	 width: 45% ;
+  height: auto ;
+}
+.banner
+{
+	width: 95%;
+	margin: 0 auto;
+	border: 1px solid #ddd;
+}
+.banner img
+{
+	width: 100%;
+	height: auto;
+
+}
+.car
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.card
+{
+	width: 25%;
+	border:1px solid #ddd; 
+	margin:1%;
+	padding:1% 
+}
+.h1
+{
+	text-align: center;
+}
